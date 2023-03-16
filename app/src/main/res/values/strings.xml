@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="contact_form">Contact form</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+    <string name="contact">Contact</string>
+    <string name="contact1">Contact</string>
+    <string name="send">SEND</string>
+    <string name="number">number</string>
+    <string name="number1">number</string>
+</resources>
